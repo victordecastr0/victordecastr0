@@ -1,9 +1,5 @@
 ## Seja bem vindo!
 
-- 👋 Sou o Victor, cientista de dados e estudante!
-- 🌱 Aprendendo mais sobre visualização de dados e métodos para predição de resultados esportivos.
-- 💼 Atualmente sou estagiário na área de ciência de dados e consultoria empresarial.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Victor-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
